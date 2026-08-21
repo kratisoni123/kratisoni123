@@ -143,11 +143,6 @@ A full-stack learning project where I explored frontend development along with A
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kratisoni123/kratisoni123/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
