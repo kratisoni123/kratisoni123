@@ -124,12 +124,6 @@ A full-stack learning project where I explored frontend development along with A
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kratisoni123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratisoni123&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-</p>
 
 ---
 
